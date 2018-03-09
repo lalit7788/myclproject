@@ -6,4 +6,6 @@ GET THE HELL OUTTA HERE!!!
 
 git init
 yarn init
+git log --name-status HEAD
+
 
